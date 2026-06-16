@@ -1,7 +1,7 @@
 # Digery's Weather App
 ### *A simple weather application entirely made in Python.*
 
-## Version 1
+## Version 1 (For Windows)
 ### Guide
 1. Download folder *version1*.
 2. Download and install Python 3.13 ([Exact release](https://www.python.org/downloads/release/python-3137/)).
