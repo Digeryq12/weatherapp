@@ -5,7 +5,7 @@
 ### Guide
 1. Download folder *version1*.
 2. Download and install Python 3.13 ([Exact release](https://www.python.org/downloads/release/python-3137/)).
-3. Install the required packages (all imports).
+3. Install the required packages (requests and keyboard).
 4. Go to [OpenWeatherMap](https://home.openweathermap.org/api_keys) & [Geoapify](https://myprojects.geoapify.com/projects), get your API keys, and create two environment variables with the names *OpenWeatherAPIKey* & *GeoapifyAPIKey*, keys as values.
 5. Make sure the *images* folder is parented to the same folder as the code.
 6. Copy the path of the code and run *python <path>* in Command Prompt.
