@@ -8,4 +8,5 @@
 3. Install the required packages (all imports).
 4. Go to [OpenWeatherMap](https://home.openweathermap.org/api_keys) & [Geoapify](https://myprojects.geoapify.com/projects), get your API keys, and create two environment variables with the names *OpenWeatherAPIKey* & *GeoapifyAPIKey*, keys as values.
 5. Make sure the *images* folder is parented to the same folder as the code.
-6. Enjoy.
+6. Copy the path of the code and run *python <path>* in Command Prompt.
+7. Check the console in case something doesn't work & enjoy.
