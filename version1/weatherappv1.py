@@ -10,7 +10,7 @@ weather_key = os.environ.get("OpenWeatherAPIKey")
 geo_key = os.environ.get("GeoapifyAPIKey")
 
 window = Tk()
-images_path = os.path.dirname(os.path.abspath(__file__)) + "\\images\\" # Thanks Claude
+images_path = os.path.dirname(os.path.abspath(__file__)) + "\\images\\"
 images = {
     "icon": "appicon100x100.png",
     "refresh": "refresh50x50.png"
